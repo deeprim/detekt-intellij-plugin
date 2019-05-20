@@ -1,6 +1,6 @@
 @file:Suppress("UNCHECKED_CAST")
 
-package io.gitlab.arturbosch.detekt.config
+package org.intellij.detekt.bridge
 
 import io.gitlab.arturbosch.detekt.api.Config
 
